@@ -66,7 +66,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //header -->
 <!-- portfolio -->
 			<div class="portfolio">
-				<h3>Album 1</h3>
+				<h3>Album 3</h3>
 
 
 		        <ul class="row first">
